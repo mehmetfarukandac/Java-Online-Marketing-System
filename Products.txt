@@ -1,0 +1,32 @@
+PLM1
+Plain Milk
+10
+AndacBeyazit
+PRM1
+Protein Milk
+15
+AndacBeyazit
+DCD3
+Decorister Diva 3
+600
+AndacBeyazit
+DCD4
+Decorister Diva 4
+600
+AndacBeyazit
+SGA30
+Samsung Galaxy A30
+1500
+AndacBeyazit
+SGA70
+Samsung Galaxy A70
+1800
+AndacBeyazit
+ZC1
+Zebra Curtain
+500
+AndacBeyazit
+BC1
+Background Curtain
+600
+AndacBeyazit
